@@ -1,0 +1,28 @@
+# Raw sequencing and large intermediate data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.fasta
+*.fa
+*.fna
+*.gbk
+*.gff
+*.gff3
+
+# Archives / large binaries
+*.zip
+*.tar
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
