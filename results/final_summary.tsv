@@ -1,0 +1,14 @@
+endpoint	bloodstream_invasive	intestinal_carriage	effect_type	effect	p_value	q_value
+Any IntegronFinder structure	76.79%	46.75%	OR	3.767	2.8117e-5	1.40585e-4
+Complete integron	35.71%	25.97%	OR	1.583	0.203	0.254
+>=1 strict complete-integron ARG	34.82%	24.68%	OR	1.631	0.151	0.252
+>=1 strict plasmid-associated complete-integron ARG	33.04%	22.08%	OR	1.741	0.140	0.252
+>=1 strict chromosome-associated complete-integron ARG	1.79%	2.60%	OR	NA	1.000	1.000
+Total AMR burden	13 (8.75-16)	5 (4-12)	RBC	0.408	NA	6.82e-6
+Predicted plasmid-associated ARG burden	7 (2-11)	0 (0-6)	RBC	0.423	NA	4.65e-6
+Predicted chromosome-associated ARG burden	4 (4-6)	4 (4-5)	RBC	0.012	NA	0.881
+Total IntegronFinder structures	1 (1-2)	0 (0-1)	RBC	0.351	NA	4.63e-5
+Complete integron burden	0 (0-1)	0 (0-1)	RBC	NA	NA	0.182
+Strict complete-integron ARG burden	NA	NA	RBC	NA	NA	0.090
+Strict plasmid-associated complete-integron ARG burden	NA	NA	RBC	NA	NA	0.090
+CALIN burden	NA	NA	RBC	NA	NA	4.59e-4
